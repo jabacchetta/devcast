@@ -3,7 +3,6 @@ import React from 'react'
 const App = ({ children }) => (
   <div>
     {children}
-    <style jsx global>{styles}</style>
     <style jsx global>{`
     :root {
     /* Main Content */
