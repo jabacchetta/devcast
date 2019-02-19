@@ -1,0 +1,19 @@
+# Build files
+build/
+.next/
+
+# Node modules
+node_modules/
+
+# Misc
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+jsconfig.json
+
+# Test coverage reports
+coverage/
+
+#Environment variables
+.env
