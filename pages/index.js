@@ -1,8 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-import App from '../components/layout/App'
-import Main from '../components/layout/Main'
+import FullPage from '../components/layout/FullPage';
 
-const Home = () => <App><Main /></App>
+const Home = () => <FullPage />;
 
-export default Home
+export default Home;
