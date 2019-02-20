@@ -1,8 +1,8 @@
 import React from 'react'
 import Icon from '../../elements/Icon/index'
 
-const Social = ({ type }) => (
-  <ul className={type} >
+const Social = () => (
+  <ul>
     <li>
       <a href="https://www.youtube.com/channel/UCmZ3Ev9DjxGUbQ3SwibhT-w" rel="noopener noreferrer" target="_blank">
         <Icon icon="facebook" />
@@ -23,32 +23,21 @@ const Social = ({ type }) => (
         margin: 0 0 0 auto;
         padding: 0;
         list-style: none;
-      }
-
-      .header {
-        display: none;
-      }
-
-      .footer {
-        left: calc(44vw - 88px);
+        left: calc(50vw - 118px);
         bottom: 0px;
         display: flex;
         position: absolute;
       }
 
-      @media screen and (min-width: 720px) {
-        .header {
-          display: flex;
-        }
-
-        .footer {
-          display: none;
-        }
+      @media screen and (min-width: 470px) {
+        ul {
+        left: calc(50vw - 136px);
       }
+  }
 
       a {
         display: flex;
-        margin: 0 8px 0;
+        margin: 0;
       }
     `}</style>
   </ul>
