@@ -25,7 +25,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/jason/Documents/Code/devcast/components/collections/CallToAction/index.js";
+var _jsxFileName = "/Users/jason/Code/devcast/components/collections/CallToAction/index.js";
 
 
 
@@ -126,7 +126,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/jason/Documents/Code/devcast/components/collections/Form/index.js";
+var _jsxFileName = "/Users/jason/Code/devcast/components/collections/Form/index.js";
 
 
 
@@ -221,31 +221,31 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _elements_Icon_index__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../elements/Icon/index */ "./components/elements/Icon/index.js");
-var _jsxFileName = "/Users/jason/Documents/Code/devcast/components/collections/Social/index.js";
+var _jsxFileName = "/Users/jason/Code/devcast/components/collections/Social/index.js";
 
 
 
 
 var Social = function Social() {
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
-    className: "jsx-2080651421",
+    className: "jsx-2192668068",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
-    className: "jsx-2080651421",
+    className: "jsx-2192668068",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-    href: "https://www.youtube.com/channel/UCmZ3Ev9DjxGUbQ3SwibhT-w",
+    href: "https://www.facebook.com/DevCast-100336178088902/",
     rel: "noopener noreferrer",
     target: "_blank",
-    className: "jsx-2080651421",
+    className: "jsx-2192668068",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -259,17 +259,17 @@ var Social = function Social() {
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
-    className: "jsx-2080651421",
+    className: "jsx-2192668068",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-    href: "https://www.youtube.com/channel/UCmZ3Ev9DjxGUbQ3SwibhT-w",
+    href: "https://twitter.com/devcastcode",
     rel: "noopener noreferrer",
     target: "_blank",
-    className: "jsx-2080651421",
+    className: "jsx-2192668068",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -283,7 +283,7 @@ var Social = function Social() {
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
-    className: "jsx-2080651421",
+    className: "jsx-2192668068",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
@@ -293,7 +293,7 @@ var Social = function Social() {
     href: "https://www.youtube.com/channel/UCmZ3Ev9DjxGUbQ3SwibhT-w",
     rel: "noopener noreferrer",
     target: "_blank",
-    className: "jsx-2080651421",
+    className: "jsx-2192668068",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
@@ -306,10 +306,34 @@ var Social = function Social() {
       lineNumber: 18
     },
     __self: this
-  }))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "2080651421",
+  }))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
+    className: "jsx-2192668068",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
     __self: this
-  }, "ul.jsx-2080651421{margin:0 0 0 auto;padding:0;list-style:none;left:calc(50vw - 118px);bottom:0px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;position:absolute;}@media screen and (min-width:470px){ul.jsx-2080651421{left:calc(50vw - 136px);}}a.jsx-2080651421{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qYXNvbi9Eb2N1bWVudHMvQ29kZS9kZXZjYXN0L2NvbXBvbmVudHMvY29sbGVjdGlvbnMvU29jaWFsL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW9CZ0IsQUFHMkIsQUFXTSxBQUtYLGtCQWZILE1BV1osSUFWa0IsZ0JBQ1Esd0JBQ2IsTUFhRixLQVpJLElBYWYsc0VBWm9CLGtCQUNwQiIsImZpbGUiOiIvVXNlcnMvamFzb24vRG9jdW1lbnRzL0NvZGUvZGV2Y2FzdC9jb21wb25lbnRzL2NvbGxlY3Rpb25zL1NvY2lhbC9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCdcbmltcG9ydCBJY29uIGZyb20gJy4uLy4uL2VsZW1lbnRzL0ljb24vaW5kZXgnXG5cbmNvbnN0IFNvY2lhbCA9ICgpID0+IChcbiAgPHVsPlxuICAgIDxsaT5cbiAgICAgIDxhIGhyZWY9XCJodHRwczovL3d3dy55b3V0dWJlLmNvbS9jaGFubmVsL1VDbVozRXY5RGp4R1ViUTNTd2liaFQtd1wiIHJlbD1cIm5vb3BlbmVyIG5vcmVmZXJyZXJcIiB0YXJnZXQ9XCJfYmxhbmtcIj5cbiAgICAgICAgPEljb24gaWNvbj1cImZhY2Vib29rXCIgLz5cbiAgICAgIDwvYT5cbiAgICA8L2xpPlxuICAgIDxsaT5cbiAgICAgIDxhIGhyZWY9XCJodHRwczovL3d3dy55b3V0dWJlLmNvbS9jaGFubmVsL1VDbVozRXY5RGp4R1ViUTNTd2liaFQtd1wiIHJlbD1cIm5vb3BlbmVyIG5vcmVmZXJyZXJcIiB0YXJnZXQ9XCJfYmxhbmtcIj5cbiAgICAgICAgPEljb24gaWNvbj1cInR3aXR0ZXJcIiAvPlxuICAgICAgPC9hPlxuICAgIDwvbGk+XG4gICAgPGxpPlxuICAgICAgPGEgaHJlZj1cImh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2NoYW5uZWwvVUNtWjNFdjlEanhHVWJRM1N3aWJoVC13XCIgcmVsPVwibm9vcGVuZXIgbm9yZWZlcnJlclwiIHRhcmdldD1cIl9ibGFua1wiPlxuICAgICAgICA8SWNvbiBpY29uPVwieW91dHViZVwiIC8+XG4gICAgICA8L2E+XG4gICAgPC9saT5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICB1bCB7XG4gICAgICAgIG1hcmdpbjogMCAwIDAgYXV0bztcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgbGlzdC1zdHlsZTogbm9uZTtcbiAgICAgICAgbGVmdDogY2FsYyg1MHZ3IC0gMTE4cHgpO1xuICAgICAgICBib3R0b206IDBweDtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgfVxuXG4gICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoOiA0NzBweCkge1xuICAgICAgICB1bCB7XG4gICAgICAgIGxlZnQ6IGNhbGMoNTB2dyAtIDEzNnB4KTtcbiAgICAgIH1cbiAgfVxuXG4gICAgICBhIHtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC91bD5cbilcblxuZXhwb3J0IGRlZmF1bHQgU29jaWFsXG4iXX0= */\n/*@ sourceURL=/Users/jason/Documents/Code/devcast/components/collections/Social/index.js */"));
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+    href: "https://www.linkedin.com/company/devcastcode",
+    rel: "noopener noreferrer",
+    target: "_blank",
+    className: "jsx-2192668068",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_elements_Icon_index__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    icon: "linkedin",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    },
+    __self: this
+  }))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    id: "2192668068",
+    __self: this
+  }, "ul.jsx-2192668068{margin:0 0 0 auto;padding:0;list-style:none;left:50%;-webkit-transform:translate(-148px);-ms-transform:translate(-148px);transform:translate(-148px);bottom:0px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;position:absolute;}@media screen and (min-width:470px){a.jsx-2192668068{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:0;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qYXNvbi9Db2RlL2RldmNhc3QvY29tcG9uZW50cy9jb2xsZWN0aW9ucy9Tb2NpYWwvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBeUJnQixBQUcyQixBQWlCTCxrQkFoQkgsVUFDTSxnQkFDUCxTQUNtQixxQkFjbkIsU0FDWCxrRUFkYSxXQUNFLDBFQUNLLGtCQUNwQiIsImZpbGUiOiIvVXNlcnMvamFzb24vQ29kZS9kZXZjYXN0L2NvbXBvbmVudHMvY29sbGVjdGlvbnMvU29jaWFsL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xuaW1wb3J0IEljb24gZnJvbSAnLi4vLi4vZWxlbWVudHMvSWNvbi9pbmRleCdcblxuY29uc3QgU29jaWFsID0gKCkgPT4gKFxuICA8dWw+XG4gICAgPGxpPlxuICAgICAgPGEgaHJlZj1cImh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9EZXZDYXN0LTEwMDMzNjE3ODA4ODkwMi9cIiByZWw9XCJub29wZW5lciBub3JlZmVycmVyXCIgdGFyZ2V0PVwiX2JsYW5rXCI+XG4gICAgICAgIDxJY29uIGljb249XCJmYWNlYm9va1wiIC8+XG4gICAgICA8L2E+XG4gICAgPC9saT5cbiAgICA8bGk+XG4gICAgICA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9kZXZjYXN0Y29kZVwiIHJlbD1cIm5vb3BlbmVyIG5vcmVmZXJyZXJcIiB0YXJnZXQ9XCJfYmxhbmtcIj5cbiAgICAgICAgPEljb24gaWNvbj1cInR3aXR0ZXJcIiAvPlxuICAgICAgPC9hPlxuICAgIDwvbGk+XG4gICAgPGxpPlxuICAgICAgPGEgaHJlZj1cImh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2NoYW5uZWwvVUNtWjNFdjlEanhHVWJRM1N3aWJoVC13XCIgcmVsPVwibm9vcGVuZXIgbm9yZWZlcnJlclwiIHRhcmdldD1cIl9ibGFua1wiPlxuICAgICAgICA8SWNvbiBpY29uPVwieW91dHViZVwiIC8+XG4gICAgICA8L2E+XG4gICAgPC9saT5cbiAgICA8bGk+XG4gICAgICA8YSBocmVmPVwiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZGV2Y2FzdGNvZGVcIiByZWw9XCJub29wZW5lciBub3JlZmVycmVyXCIgdGFyZ2V0PVwiX2JsYW5rXCI+XG4gICAgICAgIDxJY29uIGljb249XCJsaW5rZWRpblwiIC8+XG4gICAgICA8L2E+XG4gICAgPC9saT5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICB1bCB7XG4gICAgICAgIG1hcmdpbjogMCAwIDAgYXV0bztcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgbGlzdC1zdHlsZTogbm9uZTtcbiAgICAgICAgbGVmdDogNTAlO1xuICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtMTQ4cHgpO1xuICAgICAgICBib3R0b206IDBweDtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgfVxuXG4gICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoOiA0NzBweCkge1xuICAgICAgICB1bCB7XG4gICAgICAgIHsvKiBsZWZ0OiBjYWxjKDUwdncgLSAxMzZweCk7ICovfVxuICAgICAgfVxuICB9XG5cbiAgICAgIGEge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L3VsPlxuKVxuXG5leHBvcnQgZGVmYXVsdCBTb2NpYWxcbiJdfQ== */\n/*@ sourceURL=/Users/jason/Code/devcast/components/collections/Social/index.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Social);
@@ -329,7 +353,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/jason/Documents/Code/devcast/components/elements/Icon/index.js";
+var _jsxFileName = "/Users/jason/Code/devcast/components/elements/Icon/index.js";
 
 
 
@@ -353,7 +377,7 @@ var Icon = function Icon(_ref) {
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "1544134510",
     __self: this
-  }, "svg.jsx-1544134510{margin:20px;height:20px;width:20px;fill:var(--color-primary);border:1px solid transparent;border-radius:50%;padding:6px;-webkit-transition:var(--hover-duration-fast);transition:var(--hover-duration-fast);}@media screen and (min-width:470px){svg.jsx-1544134510{height:24px;width:24px;}svg.jsx-1544134510:hover{fill:#44fa8d;border:1px solid #44fa8d;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qYXNvbi9Eb2N1bWVudHMvQ29kZS9kZXZjYXN0L2NvbXBvbmVudHMvZWxlbWVudHMvSWNvbi9pbmRleC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFLZ0IsQUFHcUIsQUFZRSxBQUtELFlBaEJELEFBWUMsQ0FLWSxVQUp6QixDQVpXLFdBQ2UsR0FnQjVCLHVCQWYrQiw2QkFDWCxrQkFDTixZQUMwQixvRkFDeEMiLCJmaWxlIjoiL1VzZXJzL2phc29uL0RvY3VtZW50cy9Db2RlL2RldmNhc3QvY29tcG9uZW50cy9lbGVtZW50cy9JY29uL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JztcblxuY29uc3QgSWNvbiA9ICh7IGljb24gfSkgPT4gKFxuICA8c3ZnPlxuICAgIDx1c2UgeGxpbmtIcmVmPXtgL3N0YXRpYy9pY29ucy9tYXAuc3ZnIyR7aWNvbi50b0xvd2VyQ2FzZSgpfWB9IC8+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgc3ZnIHtcbiAgICAgICAgbWFyZ2luOiAyMHB4O1xuICAgICAgICBoZWlnaHQ6IDIwcHg7XG4gICAgICAgIHdpZHRoOiAyMHB4O1xuICAgICAgICBmaWxsOiB2YXIoLS1jb2xvci1wcmltYXJ5KTtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdHJhbnNwYXJlbnQ7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDUwJTtcbiAgICAgICAgcGFkZGluZzogNnB4O1xuICAgICAgICB0cmFuc2l0aW9uOiB2YXIoLS1ob3Zlci1kdXJhdGlvbi1mYXN0KTtcbiAgICAgIH1cblxuICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogNDcwcHgpIHtcbiAgICAgICAgc3ZnIHtcbiAgICAgICAgICBoZWlnaHQ6IDI0cHg7XG4gICAgICAgICAgd2lkdGg6IDI0cHg7XG4gICAgICAgIH1cblxuICAgICAgc3ZnOmhvdmVyIHtcbiAgICAgICAgZmlsbDogIzQ0ZmE4ZDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgIzQ0ZmE4ZDtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvc3ZnPlxuKTtcblxuZXhwb3J0IGRlZmF1bHQgSWNvbjtcbiJdfQ== */\n/*@ sourceURL=/Users/jason/Documents/Code/devcast/components/elements/Icon/index.js */"));
+  }, "svg.jsx-1544134510{margin:20px;height:20px;width:20px;fill:var(--color-primary);border:1px solid transparent;border-radius:50%;padding:6px;-webkit-transition:var(--hover-duration-fast);transition:var(--hover-duration-fast);}@media screen and (min-width:470px){svg.jsx-1544134510{height:24px;width:24px;}svg.jsx-1544134510:hover{fill:#44fa8d;border:1px solid #44fa8d;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qYXNvbi9Db2RlL2RldmNhc3QvY29tcG9uZW50cy9lbGVtZW50cy9JY29uL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUtnQixBQUdxQixBQVlFLEFBS0QsWUFoQkQsQUFZQyxDQUtZLFVBSnpCLENBWlcsV0FDZSxHQWdCNUIsdUJBZitCLDZCQUNYLGtCQUNOLFlBQzBCLG9GQUN4QyIsImZpbGUiOiIvVXNlcnMvamFzb24vQ29kZS9kZXZjYXN0L2NvbXBvbmVudHMvZWxlbWVudHMvSWNvbi9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5cbmNvbnN0IEljb24gPSAoeyBpY29uIH0pID0+IChcbiAgPHN2Zz5cbiAgICA8dXNlIHhsaW5rSHJlZj17YC9zdGF0aWMvaWNvbnMvbWFwLnN2ZyMke2ljb24udG9Mb3dlckNhc2UoKX1gfSAvPlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIHN2ZyB7XG4gICAgICAgIG1hcmdpbjogMjBweDtcbiAgICAgICAgaGVpZ2h0OiAyMHB4O1xuICAgICAgICB3aWR0aDogMjBweDtcbiAgICAgICAgZmlsbDogdmFyKC0tY29sb3ItcHJpbWFyeSk7XG4gICAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHRyYW5zcGFyZW50O1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1MCU7XG4gICAgICAgIHBhZGRpbmc6IDZweDtcbiAgICAgICAgdHJhbnNpdGlvbjogdmFyKC0taG92ZXItZHVyYXRpb24tZmFzdCk7XG4gICAgICB9XG5cbiAgICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDQ3MHB4KSB7XG4gICAgICAgIHN2ZyB7XG4gICAgICAgICAgaGVpZ2h0OiAyNHB4O1xuICAgICAgICAgIHdpZHRoOiAyNHB4O1xuICAgICAgICB9XG5cbiAgICAgIHN2Zzpob3ZlciB7XG4gICAgICAgIGZpbGw6ICM0NGZhOGQ7XG4gICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICM0NGZhOGQ7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L3N2Zz5cbik7XG5cbmV4cG9ydCBkZWZhdWx0IEljb247XG4iXX0= */\n/*@ sourceURL=/Users/jason/Code/devcast/components/elements/Icon/index.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Icon);
@@ -391,7 +415,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/jason/Documents/Code/devcast/components/layout/FullPage/index.js";
+var _jsxFileName = "/Users/jason/Code/devcast/components/layout/FullPage/index.js";
 
 
 
@@ -477,7 +501,7 @@ function (_React$Component) {
         id: "3351839541",
         dynamic: [this.state.height],
         __self: this
-      }, "div.__jsx-style-dynamic-selector{height:".concat(this.state.height, ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qYXNvbi9Eb2N1bWVudHMvQ29kZS9kZXZjYXN0L2NvbXBvbmVudHMvbGF5b3V0L0Z1bGxQYWdlL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWlDb0IsQUFHaUQsb0NBQ3RDIiwiZmlsZSI6Ii9Vc2Vycy9qYXNvbi9Eb2N1bWVudHMvQ29kZS9kZXZjYXN0L2NvbXBvbmVudHMvbGF5b3V0L0Z1bGxQYWdlL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JztcbmltcG9ydCBTb2NpYWwgZnJvbSAnLi4vLi4vY29sbGVjdGlvbnMvU29jaWFsJztcbmltcG9ydCBIZWFkZXIgZnJvbSAnLi4vSGVhZGVyJztcbmltcG9ydCBDYWxsVG9BY3Rpb24gZnJvbSAnLi4vLi4vY29sbGVjdGlvbnMvQ2FsbFRvQWN0aW9uJztcbmltcG9ydCBzdHlsZXMgZnJvbSAnLi9zdHlsZXMnO1xuXG5jbGFzcyBGdWxsUGFnZSBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7XG4gIHN0YXRlID0ge1xuICAgIGhlaWdodDogJzEwMHZoJyxcbiAgfTtcblxuICBzZXRUcnVlVmlld3BvcnRIZWlnaHQoKSB7XG4gICAgY29uc3QgaGVpZ2h0ID0gTWF0aC5taW4oXG4gICAgICBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuY2xpZW50SGVpZ2h0LFxuICAgICAgd2luZG93LnNjcmVlbi5oZWlnaHQsXG4gICAgICB3aW5kb3cuaW5uZXJIZWlnaHQsXG4gICAgKTtcblxuICAgIHRoaXMuc2V0U3RhdGUoeyBoZWlnaHQ6IGAke2hlaWdodH1weGAgfSk7XG4gIH1cblxuICBjb21wb25lbnREaWRNb3VudCgpIHtcbiAgICB0aGlzLnNldFRydWVWaWV3cG9ydEhlaWdodCgpO1xuICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdyZXNpemUnLCAoKSA9PiB0aGlzLnNldFRydWVWaWV3cG9ydEhlaWdodCgpKTtcbiAgfVxuXG4gIHJlbmRlcigpIHtcbiAgICByZXR1cm4gKFxuICAgICAgPGRpdj5cbiAgICAgICAgPEhlYWRlciAvPlxuICAgICAgICA8Q2FsbFRvQWN0aW9uIC8+XG4gICAgICAgIDxTb2NpYWwgLz5cbiAgICAgICAgPHN0eWxlIGpzeD57c3R5bGVzfTwvc3R5bGU+XG4gICAgICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICAgICBkaXYge1xuICAgICAgICAgICAgaGVpZ2h0OiAke3RoaXMuc3RhdGUuaGVpZ2h0fTtcbiAgICAgICAgICB9XG4gICAgICAgIGB9PC9zdHlsZT5cbiAgICAgIDwvZGl2PlxuICAgICk7XG4gIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgRnVsbFBhZ2U7XG4iXX0= */\n/*@ sourceURL=/Users/jason/Documents/Code/devcast/components/layout/FullPage/index.js */")));
+      }, "div.__jsx-style-dynamic-selector{height:".concat(this.state.height, ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qYXNvbi9Db2RlL2RldmNhc3QvY29tcG9uZW50cy9sYXlvdXQvRnVsbFBhZ2UvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBaUNvQixBQUdpRCxvQ0FDdEMiLCJmaWxlIjoiL1VzZXJzL2phc29uL0NvZGUvZGV2Y2FzdC9jb21wb25lbnRzL2xheW91dC9GdWxsUGFnZS9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5pbXBvcnQgU29jaWFsIGZyb20gJy4uLy4uL2NvbGxlY3Rpb25zL1NvY2lhbCc7XG5pbXBvcnQgSGVhZGVyIGZyb20gJy4uL0hlYWRlcic7XG5pbXBvcnQgQ2FsbFRvQWN0aW9uIGZyb20gJy4uLy4uL2NvbGxlY3Rpb25zL0NhbGxUb0FjdGlvbic7XG5pbXBvcnQgc3R5bGVzIGZyb20gJy4vc3R5bGVzJztcblxuY2xhc3MgRnVsbFBhZ2UgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQge1xuICBzdGF0ZSA9IHtcbiAgICBoZWlnaHQ6ICcxMDB2aCcsXG4gIH07XG5cbiAgc2V0VHJ1ZVZpZXdwb3J0SGVpZ2h0KCkge1xuICAgIGNvbnN0IGhlaWdodCA9IE1hdGgubWluKFxuICAgICAgZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudEhlaWdodCxcbiAgICAgIHdpbmRvdy5zY3JlZW4uaGVpZ2h0LFxuICAgICAgd2luZG93LmlubmVySGVpZ2h0LFxuICAgICk7XG5cbiAgICB0aGlzLnNldFN0YXRlKHsgaGVpZ2h0OiBgJHtoZWlnaHR9cHhgIH0pO1xuICB9XG5cbiAgY29tcG9uZW50RGlkTW91bnQoKSB7XG4gICAgdGhpcy5zZXRUcnVlVmlld3BvcnRIZWlnaHQoKTtcbiAgICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigncmVzaXplJywgKCkgPT4gdGhpcy5zZXRUcnVlVmlld3BvcnRIZWlnaHQoKSk7XG4gIH1cblxuICByZW5kZXIoKSB7XG4gICAgcmV0dXJuIChcbiAgICAgIDxkaXY+XG4gICAgICAgIDxIZWFkZXIgLz5cbiAgICAgICAgPENhbGxUb0FjdGlvbiAvPlxuICAgICAgICA8U29jaWFsIC8+XG4gICAgICAgIDxzdHlsZSBqc3g+e3N0eWxlc308L3N0eWxlPlxuICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgZGl2IHtcbiAgICAgICAgICAgIGhlaWdodDogJHt0aGlzLnN0YXRlLmhlaWdodH07XG4gICAgICAgICAgfVxuICAgICAgICBgfTwvc3R5bGU+XG4gICAgICA8L2Rpdj5cbiAgICApO1xuICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IEZ1bGxQYWdlO1xuIl19 */\n/*@ sourceURL=/Users/jason/Code/devcast/components/layout/FullPage/index.js */")));
     }
   }]);
 
@@ -533,7 +557,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/jason/Documents/Code/devcast/components/layout/Header/index.js";
+var _jsxFileName = "/Users/jason/Code/devcast/components/layout/Header/index.js";
 
 
 
@@ -2760,10 +2784,10 @@ for (var i = 0; i < DOMIterables.length; i++) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjason%2FDocuments%2FCode%2Fdevcast%2Fpages%2Findex.js!./":
-/*!*****************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjason%2FDocuments%2FCode%2Fdevcast%2Fpages%2Findex.js ***!
-  \*****************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjason%2FCode%2Fdevcast%2Fpages%2Findex.js!./":
+/*!*****************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjason%2FCode%2Fdevcast%2Fpages%2Findex.js ***!
+  \*****************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3749,7 +3773,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_layout_FullPage__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/layout/FullPage */ "./components/layout/FullPage/index.js");
-var _jsxFileName = "/Users/jason/Documents/Code/devcast/pages/index.js";
+var _jsxFileName = "/Users/jason/Code/devcast/pages/index.js";
 
 
 
@@ -3768,13 +3792,13 @@ var Home = function Home() {
 /***/ }),
 
 /***/ 1:
-/*!*********************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjason%2FDocuments%2FCode%2Fdevcast%2Fpages%2Findex.js ***!
-  \*********************************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjason%2FCode%2Fdevcast%2Fpages%2Findex.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjason%2FDocuments%2FCode%2Fdevcast%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjason%2FDocuments%2FCode%2Fdevcast%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjason%2FCode%2Fdevcast%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjason%2FCode%2Fdevcast%2Fpages%2Findex.js!./");
 
 
 /***/ }),
