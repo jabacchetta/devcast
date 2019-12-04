@@ -30,10 +30,18 @@ export default css`
   }
 
   .primaryLink {
-    color: #fac944;
+    color: #a644fa;
   }
 
   .secondaryLink {
+    color: #fa4470;
+  }
+
+  .primaryLink:hover {
+    color: #a644fa;
+  }
+
+  .secondaryLink:hover {
     color: #fa4470;
   }
 

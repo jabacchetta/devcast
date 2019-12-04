@@ -8,8 +8,7 @@ class CallToAction extends React.Component {
       <main>
         <h1>Learn to Code</h1>
         <p>
-          Subscribe to get exclusive offers on developer-focused, expert-taught video tutorials,
-          featuring languages, tools, algorithms, and frameworks.
+          Developer-focused, expert-taught video tutorials.
         </p>
         <Form />
         <style jsx>{styles}</style>

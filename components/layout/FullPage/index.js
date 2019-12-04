@@ -26,10 +26,12 @@ class FullPage extends React.Component {
 
   render() {
     return (
-      <div>
-        <Header />
-        <CallToAction />
-        <Social />
+      <div className="border">
+        <div className="image">
+          <Header />
+          <CallToAction />
+          <Social />
+        </div>
         <style jsx>{styles}</style>
         <style jsx>{`
           div {

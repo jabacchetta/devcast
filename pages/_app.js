@@ -55,6 +55,8 @@ class MyApp extends App {
 
             /* Adaptive screen sizes */
             --desktop: 980px;
+
+            --body-border-size: 8px;
           }
 
           html {
