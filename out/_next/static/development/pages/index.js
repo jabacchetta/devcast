@@ -66,10 +66,10 @@ function (_React$Component) {
           lineNumber: 10
         },
         __self: this
-      }, "Subscribe to get exclusive offers on developer-focused, expert-taught video tutorials, featuring languages, tools, algorithms, and frameworks."), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_Form__WEBPACK_IMPORTED_MODULE_7__["default"], {
+      }, "Developer-focused, expert-taught video tutorials."), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_Form__WEBPACK_IMPORTED_MODULE_7__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 14
+          lineNumber: 13
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_5___default.a, {
@@ -95,9 +95,9 @@ function (_React$Component) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-var _defaultExport = new String("main.jsx-1083465632{text-align:center;}h1.jsx-1083465632{font-family:'Playfair Display';font-size:7vw;font-weight:700;margin-bottom:1rem;}@media screen and (min-width:1000px){h1.jsx-1083465632{font-size:4rem;}}p.jsx-1083465632{width:100%;max-width:600px;margin:auto;font-weight:300;font-family:'Roboto';font-size:4.4vw;margin-bottom:1.2rem;}@media screen and (min-width:364px){p.jsx-1083465632{font-size:1rem;}}");
+var _defaultExport = new String("main.jsx-740977369{text-align:center;}h1.jsx-740977369{font-family:'Playfair Display';font-size:10vw;font-weight:700;margin-bottom:1rem;}@media screen and (min-width:640px){h1.jsx-740977369{font-size:4rem;}}p.jsx-740977369{width:100%;max-width:580px;margin:auto;font-weight:300;font-family:'Roboto';font-size:4.4vw;margin-bottom:2.4rem;color:#fac944;}@media screen and (min-width:364px){p.jsx-740977369{font-size:1rem;}}");
 
-_defaultExport.__hash = "1083465632";
+_defaultExport.__hash = "740977369";
 /* harmony default export */ __webpack_exports__["default"] = (_defaultExport);
 
 /***/ }),
@@ -200,9 +200,9 @@ function (_React$Component) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-var _defaultExport = new String("input.jsx-4067143270{display:block;margin:0 auto 4vh;font-size:1rem;height:6.4vh;max-height:3.2rem;max-width:600px;min-height:2.5rem;width:100%;color:rgba(81,83,105,1);border-radius:2rem;padding:0px 1.05rem;border:1px solid #fff;outline:none;box-shadow:0 1px 4px rgba(0,0,0,1);}input.jsx-4067143270:focus{border-color:#4484fa;box-shadow:0 0 0 1px #4484fa;}.jsx-4067143270::-webkit-input-placeholder{color:var(--color-primary-light);font-size:0.9rem;}.jsx-4067143270::-moz-placeholder{color:var(--color-primary-light);font-size:0.9rem;}.jsx-4067143270:-ms-input-placeholder{color:var(--color-primary-light);font-size:0.9rem;}.jsx-4067143270::placeholder{color:var(--color-primary-light);font-size:0.9rem;}button.jsx-4067143270{color:#fff;text-transform:uppercase;-webkit-letter-spacing:var(--letter-spacing-lg);-moz-letter-spacing:var(--letter-spacing-lg);-ms-letter-spacing:var(--letter-spacing-lg);letter-spacing:var(--letter-spacing-lg);padding:10px 0;font-weight:500;font-size:0.7rem;display:block;width:100%;box-shadow:0 1px 4px rgba(0,0,0,1);max-width:300px;border:1px solid #4484fa;background-color:#4484fa;margin:0 auto 4vh;height:6vh;max-height:3.2rem;min-height:2.5rem;}@media screen and (min-width:470px){button.jsx-4067143270{font-size:0.8rem;}}button.jsx-4067143270:hover{color:#4484fa;background-color:rgba(0,0,0,0);hover-duration:var(--hover-duration-fast);}");
+var _defaultExport = new String("input.jsx-709946620{display:block;margin:0 auto 5vh;font-size:1rem;height:6.4vh;max-height:3.2rem;max-width:600px;min-height:2.5rem;width:100%;color:rgba(81,83,105,1);border-radius:2rem;padding:0px 1.05rem;border:1px solid #fff;outline:none;box-shadow:0 1px 4px rgba(0,0,0,1);}input.jsx-709946620:focus{border-color:#4484fa;box-shadow:0 0 0 1px #4484fa;}.jsx-709946620::-webkit-input-placeholder{color:var(--color-primary-light);font-size:0.9rem;}.jsx-709946620::-moz-placeholder{color:var(--color-primary-light);font-size:0.9rem;}.jsx-709946620:-ms-input-placeholder{color:var(--color-primary-light);font-size:0.9rem;}.jsx-709946620::placeholder{color:var(--color-primary-light);font-size:0.9rem;}button.jsx-709946620{color:#fff;text-transform:uppercase;-webkit-letter-spacing:var(--letter-spacing-lg);-moz-letter-spacing:var(--letter-spacing-lg);-ms-letter-spacing:var(--letter-spacing-lg);letter-spacing:var(--letter-spacing-lg);padding:10px 0;font-weight:500;font-size:0.7rem;display:block;width:100%;box-shadow:0 1px 4px rgba(0,0,0,1);max-width:300px;border:1px solid #4484fa;background-color:#4484fa;margin:0 auto 4vh;height:6vh;max-height:3.2rem;min-height:2.5rem;}@media screen and (min-width:470px){button.jsx-709946620{font-size:0.8rem;}}button.jsx-709946620:hover{color:#4484fa;background-color:rgba(0,0,0,0);hover-duration:var(--hover-duration-fast);}");
 
-_defaultExport.__hash = "4067143270";
+_defaultExport.__hash = "709946620";
 /* harmony default export */ __webpack_exports__["default"] = (_defaultExport);
 
 /***/ }),
@@ -470,38 +470,45 @@ function (_React$Component) {
     key: "render",
     value: function render() {
       return react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
-        className: "jsx-".concat(_styles__WEBPACK_IMPORTED_MODULE_12__["default"].__hash) + " " + styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a.dynamic([["3351839541", [this.state.height]]]),
+        className: "jsx-".concat(_styles__WEBPACK_IMPORTED_MODULE_12__["default"].__hash) + " " + styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a.dynamic([["3351839541", [this.state.height]]]) + " " + "border",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 29
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_Header__WEBPACK_IMPORTED_MODULE_10__["default"], {
+      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
+        className: "jsx-".concat(_styles__WEBPACK_IMPORTED_MODULE_12__["default"].__hash) + " " + styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a.dynamic([["3351839541", [this.state.height]]]) + " " + "image",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 30
         },
         __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_collections_CallToAction__WEBPACK_IMPORTED_MODULE_11__["default"], {
+      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_Header__WEBPACK_IMPORTED_MODULE_10__["default"], {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 31
         },
         __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_collections_Social__WEBPACK_IMPORTED_MODULE_9__["default"], {
+      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_collections_CallToAction__WEBPACK_IMPORTED_MODULE_11__["default"], {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 32
         },
         __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a, {
+      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_collections_Social__WEBPACK_IMPORTED_MODULE_9__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 33
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a, {
         id: _styles__WEBPACK_IMPORTED_MODULE_12__["default"].__hash,
         __self: this
       }, _styles__WEBPACK_IMPORTED_MODULE_12__["default"]), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a, {
         id: "3351839541",
         dynamic: [this.state.height],
         __self: this
-      }, "div.__jsx-style-dynamic-selector{height:".concat(this.state.height, ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qYXNvbi9Db2RlL2RldmNhc3QvY29tcG9uZW50cy9sYXlvdXQvRnVsbFBhZ2UvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBaUNvQixBQUdpRCxvQ0FDdEMiLCJmaWxlIjoiL1VzZXJzL2phc29uL0NvZGUvZGV2Y2FzdC9jb21wb25lbnRzL2xheW91dC9GdWxsUGFnZS9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5pbXBvcnQgU29jaWFsIGZyb20gJy4uLy4uL2NvbGxlY3Rpb25zL1NvY2lhbCc7XG5pbXBvcnQgSGVhZGVyIGZyb20gJy4uL0hlYWRlcic7XG5pbXBvcnQgQ2FsbFRvQWN0aW9uIGZyb20gJy4uLy4uL2NvbGxlY3Rpb25zL0NhbGxUb0FjdGlvbic7XG5pbXBvcnQgc3R5bGVzIGZyb20gJy4vc3R5bGVzJztcblxuY2xhc3MgRnVsbFBhZ2UgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQge1xuICBzdGF0ZSA9IHtcbiAgICBoZWlnaHQ6ICcxMDB2aCcsXG4gIH07XG5cbiAgc2V0VHJ1ZVZpZXdwb3J0SGVpZ2h0KCkge1xuICAgIGNvbnN0IGhlaWdodCA9IE1hdGgubWluKFxuICAgICAgZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudEhlaWdodCxcbiAgICAgIHdpbmRvdy5zY3JlZW4uaGVpZ2h0LFxuICAgICAgd2luZG93LmlubmVySGVpZ2h0LFxuICAgICk7XG5cbiAgICB0aGlzLnNldFN0YXRlKHsgaGVpZ2h0OiBgJHtoZWlnaHR9cHhgIH0pO1xuICB9XG5cbiAgY29tcG9uZW50RGlkTW91bnQoKSB7XG4gICAgdGhpcy5zZXRUcnVlVmlld3BvcnRIZWlnaHQoKTtcbiAgICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigncmVzaXplJywgKCkgPT4gdGhpcy5zZXRUcnVlVmlld3BvcnRIZWlnaHQoKSk7XG4gIH1cblxuICByZW5kZXIoKSB7XG4gICAgcmV0dXJuIChcbiAgICAgIDxkaXY+XG4gICAgICAgIDxIZWFkZXIgLz5cbiAgICAgICAgPENhbGxUb0FjdGlvbiAvPlxuICAgICAgICA8U29jaWFsIC8+XG4gICAgICAgIDxzdHlsZSBqc3g+e3N0eWxlc308L3N0eWxlPlxuICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgZGl2IHtcbiAgICAgICAgICAgIGhlaWdodDogJHt0aGlzLnN0YXRlLmhlaWdodH07XG4gICAgICAgICAgfVxuICAgICAgICBgfTwvc3R5bGU+XG4gICAgICA8L2Rpdj5cbiAgICApO1xuICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IEZ1bGxQYWdlO1xuIl19 */\n/*@ sourceURL=/Users/jason/Code/devcast/components/layout/FullPage/index.js */")));
+      }, "div.__jsx-style-dynamic-selector{height:".concat(this.state.height, ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qYXNvbi9Db2RlL2RldmNhc3QvY29tcG9uZW50cy9sYXlvdXQvRnVsbFBhZ2UvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBbUNvQixBQUdpRCxvQ0FDdEMiLCJmaWxlIjoiL1VzZXJzL2phc29uL0NvZGUvZGV2Y2FzdC9jb21wb25lbnRzL2xheW91dC9GdWxsUGFnZS9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5pbXBvcnQgU29jaWFsIGZyb20gJy4uLy4uL2NvbGxlY3Rpb25zL1NvY2lhbCc7XG5pbXBvcnQgSGVhZGVyIGZyb20gJy4uL0hlYWRlcic7XG5pbXBvcnQgQ2FsbFRvQWN0aW9uIGZyb20gJy4uLy4uL2NvbGxlY3Rpb25zL0NhbGxUb0FjdGlvbic7XG5pbXBvcnQgc3R5bGVzIGZyb20gJy4vc3R5bGVzJztcblxuY2xhc3MgRnVsbFBhZ2UgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQge1xuICBzdGF0ZSA9IHtcbiAgICBoZWlnaHQ6ICcxMDB2aCcsXG4gIH07XG5cbiAgc2V0VHJ1ZVZpZXdwb3J0SGVpZ2h0KCkge1xuICAgIGNvbnN0IGhlaWdodCA9IE1hdGgubWluKFxuICAgICAgZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudEhlaWdodCxcbiAgICAgIHdpbmRvdy5zY3JlZW4uaGVpZ2h0LFxuICAgICAgd2luZG93LmlubmVySGVpZ2h0LFxuICAgICk7XG5cbiAgICB0aGlzLnNldFN0YXRlKHsgaGVpZ2h0OiBgJHtoZWlnaHR9cHhgIH0pO1xuICB9XG5cbiAgY29tcG9uZW50RGlkTW91bnQoKSB7XG4gICAgdGhpcy5zZXRUcnVlVmlld3BvcnRIZWlnaHQoKTtcbiAgICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigncmVzaXplJywgKCkgPT4gdGhpcy5zZXRUcnVlVmlld3BvcnRIZWlnaHQoKSk7XG4gIH1cblxuICByZW5kZXIoKSB7XG4gICAgcmV0dXJuIChcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYm9yZGVyXCI+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaW1hZ2VcIj5cbiAgICAgICAgICA8SGVhZGVyIC8+XG4gICAgICAgICAgPENhbGxUb0FjdGlvbiAvPlxuICAgICAgICAgIDxTb2NpYWwgLz5cbiAgICAgICAgPC9kaXY+XG4gICAgICAgIDxzdHlsZSBqc3g+e3N0eWxlc308L3N0eWxlPlxuICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgZGl2IHtcbiAgICAgICAgICAgIGhlaWdodDogJHt0aGlzLnN0YXRlLmhlaWdodH07XG4gICAgICAgICAgfVxuICAgICAgICBgfTwvc3R5bGU+XG4gICAgICA8L2Rpdj5cbiAgICApO1xuICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IEZ1bGxQYWdlO1xuIl19 */\n/*@ sourceURL=/Users/jason/Code/devcast/components/layout/FullPage/index.js */")));
     }
   }]);
 
@@ -521,9 +528,9 @@ function (_React$Component) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-var _defaultExport = new String("div.jsx-2927074319{position:relative;min-width:100vw;padding:24px;overflow:auto;border:8px solid #4484fa;background:linear-gradient(to bottom,rgba(0,0,0,0.9),rgba(0,0,0,0.6)), url(/static/backgrounds/teach-code.jpg) center / cover,var(--color-primary);}@media only screen and (min-width:720px), only screen and (min-resolution:1.2dppx) and (min-width:360px), only screen and (min-resolution:2.2dppx) and (min-width:240px), only screen and (min-resolution:3.2dppx) and (min-width:180px){div.jsx-2927074319{background:linear-gradient(to bottom,rgba(0,0,0,0.9),rgba(0,0,0,0.6)), url(/static/backgrounds/teach-code@2x.jpg) center / cover,var(--color-primary);}}@media only screen and (min-width:1440px), only screen and (min-resolution:1.2dppx) and (min-width:720px), only screen and (min-resolution:2.2dppx) and (min-width:480px), only screen and (min-resolution:3.2dppx) and (min-width:360px){div.jsx-2927074319{background:linear-gradient(to bottom,rgba(0,0,0,0.9),rgba(0,0,0,0.6)), url(/static/backgrounds/teach-code@3x.jpg) center / cover,var(--color-primary);}}@media only screen and (min-width:2160px), only screen and (min-resolution:1.2dppx) and (min-width:1080px), only screen and (min-resolution:2.2dppx) and (min-width:720px), only screen and (min-resolution:3.2dppx) and (min-width:540px){div.jsx-2927074319{background:linear-gradient(to bottom,rgba(0,0,0,0.9),rgba(0,0,0,0.6)), url(/static/backgrounds/teach-code@4x.jpg) center / cover,var(--color-primary);}}");
+var _defaultExport = new String(".border.jsx-2326333286{position:relative;background:linear-gradient(to right,#4484fa,#44fa8d);padding:var(--body-border-size);}.image.jsx-2326333286{position:relative;min-width:calc(100vw - var(--body-border-size) * 2);max-height:calc(100vh - var(--body-border-size) * 2);padding:32px;overflow:auto;background:linear-gradient(to bottom,rgba(0,0,0,0.9),rgba(0,0,0,0.6)), url(/static/backgrounds/teach-code.jpg) center / cover,var(--color-primary);}@media only screen and (min-width:720px), only screen and (min-resolution:1.2dppx) and (min-width:360px), only screen and (min-resolution:2.2dppx) and (min-width:240px), only screen and (min-resolution:3.2dppx) and (min-width:180px){.image.jsx-2326333286{background:linear-gradient(to bottom,rgba(0,0,0,0.9),rgba(0,0,0,0.6)), url(/static/backgrounds/teach-code@2x.jpg) center / cover,var(--color-primary);}}@media only screen and (min-width:1440px), only screen and (min-resolution:1.2dppx) and (min-width:720px), only screen and (min-resolution:2.2dppx) and (min-width:480px), only screen and (min-resolution:3.2dppx) and (min-width:360px){.image.jsx-2326333286{background:linear-gradient(to bottom,rgba(0,0,0,0.9),rgba(0,0,0,0.6)), url(/static/backgrounds/teach-code@3x.jpg) center / cover,var(--color-primary);}}@media only screen and (min-width:2160px), only screen and (min-resolution:1.2dppx) and (min-width:1080px), only screen and (min-resolution:2.2dppx) and (min-width:720px), only screen and (min-resolution:3.2dppx) and (min-width:540px){.image.jsx-2326333286{background:linear-gradient(to bottom,rgba(0,0,0,0.9),rgba(0,0,0,0.6)), url(/static/backgrounds/teach-code@4x.jpg) center / cover,var(--color-primary);}}");
 
-_defaultExport.__hash = "2927074319";
+_defaultExport.__hash = "2326333286";
 /* harmony default export */ __webpack_exports__["default"] = (_defaultExport);
 
 /***/ }),
@@ -660,9 +667,9 @@ function (_React$Component) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-var _defaultExport = new String("header.jsx-3657095233{margin-bottom:14vh;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}img.jsx-3657095233{width:40%;max-width:164px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;}.links.jsx-3657095233{display:inline-block;margin:0 auto 0.5vh;font-size:3.4vw;word-spacing:0.2rem;margin:0 0 0 auto;font-weight:300;}@media screen and (min-width:470px){.links.jsx-3657095233{font-size:1rem;}}.primaryLink.jsx-3657095233{color:#fac944;}.secondaryLink.jsx-3657095233{color:#fa4470;}.primaryLink.jsx-3657095233:hover,.secondaryLink.jsx-3657095233:hover{-webkit-text-decoration:underline;text-decoration:underline;hover-duration:var(--hover-duration-fast);}");
+var _defaultExport = new String("header.jsx-2216473548{margin-bottom:14vh;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}img.jsx-2216473548{width:40%;max-width:164px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;}.links.jsx-2216473548{display:inline-block;margin:0 auto 0.5vh;font-size:3.4vw;word-spacing:0.2rem;margin:0 0 0 auto;font-weight:300;}@media screen and (min-width:470px){.links.jsx-2216473548{font-size:1rem;}}.primaryLink.jsx-2216473548{color:#a644fa;}.secondaryLink.jsx-2216473548{color:#fa4470;}.primaryLink.jsx-2216473548:hover{color:#a644fa;}.secondaryLink.jsx-2216473548:hover{color:#fa4470;}.primaryLink.jsx-2216473548:hover,.secondaryLink.jsx-2216473548:hover{-webkit-text-decoration:underline;text-decoration:underline;hover-duration:var(--hover-duration-fast);}");
 
-_defaultExport.__hash = "3657095233";
+_defaultExport.__hash = "2216473548";
 /* harmony default export */ __webpack_exports__["default"] = (_defaultExport);
 
 /***/ }),
