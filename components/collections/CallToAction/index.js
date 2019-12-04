@@ -11,7 +11,13 @@ class CallToAction extends React.Component {
           Developer-focused, expert-taught video tutorials.
         </p>
         <Form />
+        <div></div>
         <style jsx>{styles}</style>
+        <style jsx>{`
+          div {
+            min-height: 60px;
+          }
+        `}</style>
       </main>
     );
   }

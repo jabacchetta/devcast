@@ -35,15 +35,15 @@ const Social = () => (
         position: absolute;
       }
 
-      @media screen and (min-width: 470px) {
-        ul {
-        {/* left: calc(50vw - 136px); */}
-      }
-  }
-
       a {
         display: flex;
         margin: 0;
+      }
+
+      @media screen and (min-width: 470px) {
+        ul {
+          transform: translate(-160px);
+        }
       }
     `}</style>
   </ul>

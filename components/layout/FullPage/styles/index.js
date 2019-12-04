@@ -2,17 +2,17 @@ import css from 'styled-jsx/css';
 
 export default css`
   .border {
-    position: relative;
     background: linear-gradient(to right, #4484fa, #44fa8d);
     padding: var(--body-border-size);
+    overflow: auto;
   }
 
   .image {
     position: relative;
     min-width: calc(100vw - var(--body-border-size) * 2);
-    max-height: calc(100vh - var(--body-border-size) * 2);
-    padding: 32px;
+    padding: 36px;
     overflow: auto;
+    min-height: 100%;
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6)),
       url(/static/backgrounds/teach-code.jpg) center / cover, var(--color-primary);
   }

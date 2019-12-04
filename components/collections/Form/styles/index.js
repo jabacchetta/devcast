@@ -3,7 +3,7 @@ import css from 'styled-jsx/css';
 export default css`
   input {
     display: block;
-    margin: 0 auto 5vh;
+    margin: 0 auto 36px;
     font-size: 1rem;
     height: 6.4vh;
     max-height: 3.2rem;

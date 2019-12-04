@@ -34,9 +34,13 @@ class FullPage extends React.Component {
         </div>
         <style jsx>{styles}</style>
         <style jsx>{`
-          div {
+          .border {
             height: ${this.state.height};
           }
+
+          {/* .image {
+            height: calc(${this.state.height} - 16px);
+          } */}
         `}</style>
       </div>
     );
